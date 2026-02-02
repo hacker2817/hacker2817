@@ -1,6 +1,6 @@
 # Hi there, I'm Govardhan Durgam 👋
 
-## 🔐 CISSP-Certified Application Security Analyst
+## 🔐 Application Security Analyst
 
 I'm a cybersecurity professional with 4.5 years of hands-on experience in application security, specializing in penetration testing, vulnerability assessment, and DevSecOps integration. I've performed 150+ security assessments and secured 20+ enterprise applications before production.
 
@@ -41,7 +41,7 @@ APIs: RESTful APIs
 ```
 
 **Cloud & Infrastructure**
-- AWS | Azure | GCP
+- AWS | Azure
 - System Hardening | Network Security (TCP/IP, DNS, HTTP/HTTPS)
 - Databases: SQL Server, MySQL, PostgreSQL
 
@@ -93,7 +93,7 @@ APIs: RESTful APIs
 ### 💡 Current Focus
 
 - 🔭 Working on advanced penetration testing techniques
-- 🌱 Expanding expertise in cloud security (AWS, Azure, GCP)
+- 🌱 Expanding expertise in cloud security (AWS, Azure)
 - 👯 Looking to collaborate on open-source security tools
 - 💬 Ask me about VAPT, OWASP Top 10, secure coding, or DevSecOps
 
