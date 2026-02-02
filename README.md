@@ -1,100 +1,83 @@
-# Hi there, I'm Govardhan Durgam 👋
+# 👨‍💻 Application Security Analyst | Penetration Tester
 
-## 🔐 Application Security Analyst
-
-I'm a cybersecurity professional with 4.5 years of hands-on experience in application security, specializing in penetration testing, vulnerability assessment, and DevSecOps integration. I've performed 150+ security assessments and secured 20+ enterprise applications before production.
-
-### 🚀 About Me
-
-- 🔍 Expert in identifying critical vulnerabilities (SQL Injection, XSS, CSRF, SSRF, IDOR)
-- 🛡️ Reduced high-risk vulnerabilities by 60%+ across enterprise applications
-- 📊 Proficient in delivering actionable remediation strategies aligned with OWASP, NIST, and PCI-DSS
-- 🎯 Passionate about secure coding practices and DevSecOps integration
-
-### 🛠️ Technical Skills
-
-**Security Testing & Methodologies**
-- Penetration Testing | Vulnerability Assessment | Threat Modeling
-- API Security Testing | Security Audits | Risk Assessment
-- SAST/DAST Integration
-
-**Security Tools & Frameworks**
-```
-Burp Suite Pro | Acunetix | Veracode | Nessus | OpenVAS | Qualys
-Kali Linux | Metasploit | SQLMap | Nikto | W3af
-```
-
-**Vulnerability Expertise**
-- SQL Injection, XSS, CSRF, SSRF, IDOR
-- LFI/RFI, Authentication Bypass, Authorization Flaws
-- API Security Vulnerabilities
-
-**Standards & Compliance**
-- OWASP Top 10 | OWASP ASVS | NIST | PCI-DSS | SANS Top 25 | CWE | CVSS Scoring
-
-**Development & Scripting**
-```python
-Languages: Python | Bash | PowerShell | SQL
-Frameworks: Django | ASP.NET | Spring Boot
-Web Servers: Apache | Tomcat | IIS
-APIs: RESTful APIs
-```
-
-**Cloud & Infrastructure**
-- AWS | Azure
-- System Hardening | Network Security (TCP/IP, DNS, HTTP/HTTPS)
-- Databases: SQL Server, MySQL, PostgreSQL
-
-### 📜 Certifications
-
-🏆 **Certified Information Systems Security Professional (CISSP)** - (ISC)²  
-🎓 **OWASP Top 10 Training** - 2020-2021
-
-### 💼 Professional Experience
-
-**Application Security Analyst | VAPT Analyst**  
-*SV Software Solutions Pvt Ltd (Med Express)* | July 2021 - Present
-
-- Performed 150+ comprehensive security assessments across healthcare, finance, and enterprise domains
-- Secured 20+ enterprise applications before production release
-- Integrated security testing into DevSecOps pipelines and Secure SDLC practices
-- Generated detailed VAPT reports with CVSS scores and actionable remediation steps
-- Conducted security awareness training for developers on OWASP Top 10 and secure coding
-
-### 🏆 Key Achievements
-
-✨ Awarded 'Employee of the Month' for exceptional incident response performance  
-🎯 Accelerated remediation timelines by 40% through clear, actionable VAPT reports  
-🔓 Identified critical zero-day vulnerabilities preventing potential data breaches  
-👥 Active participant in cybersecurity community workshops and events
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-
-### 🔧 Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-
-📍 **Location:** Hyderabad, Telangana, India
-
-### 💡 Current Focus
-
-- 🔭 Working on advanced penetration testing techniques
-- 🌱 Expanding expertise in cloud security (AWS, Azure)
-- 👯 Looking to collaborate on open-source security tools
-- 💬 Ask me about VAPT, OWASP Top 10, secure coding, or DevSecOps
+Hi there! 👋  
+I’m an **Application Security Analyst** with hands-on experience in **VAPT, secure SDLC, and DevSecOps**, focused on identifying, exploiting, and mitigating security vulnerabilities across **web apps, APIs, mobile apps, and cloud environments**.
 
 ---
 
-⭐️ *"Security is not a product, but a process"* - Bruce Schneier
+## 🔐 What I Do
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+- 🔎 Perform **Web, API, Mobile & Network Penetration Testing**
+- 🧠 Conduct **Secure Code Reviews** (Manual + Tool-assisted)
+- 🛡️ Integrate **Security into CI/CD pipelines**
+- 🧩 Threat Modeling & Architecture Risk Reviews
+- 📋 Security findings reporting with **clear remediation guidance**
+
+---
+
+## 🧪 Skills & Expertise
+
+### 🕸️ Application Security
+- OWASP Top 10 (Web & API)
+- Authentication & Authorization flaws
+- Business Logic Vulnerabilities
+- IDOR, SSRF, XSS, SQLi, CSRF
+- API Security (OAuth2, JWT, Rate Limiting)
+
+### 🔍 Security Testing
+- Manual Penetration Testing
+- SAST / DAST / IAST
+- Secure Code Review
+- Thick Client & Mobile App Testing
+- Cloud Security Assessment (AWS basics)
+
+### ⚙️ DevSecOps & Automation
+- CI/CD Security Integration (GitHub Actions)
+- Secrets Scanning
+- Pre-commit Security Checks
+- Security Gates before Production
+
+---
+
+## 🛠️ Tools I Use
+
+- **Web/App Testing:** Burp Suite, OWASP ZAP, Postman  
+- **Code & SAST:** Semgrep, SonarQube, Checkmarx  
+- **Secrets & Supply Chain:** TruffleHog, Gitleaks  
+- **Infra & Network:** Nmap, Nessus  
+- **Mobile:** MobSF  
+- **Cloud:** AWS IAM, S3 Security Reviews  
+- **Others:** Git, Docker, Linux
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|-------|------------|
+| 🔐 AppSec CI/CD Pipeline | End-to-end DevSecOps pipeline with SAST, DAST & secrets scanning |
+| 🕷️ Web VAPT Reports | Real-world vulnerability assessments with exploitation & fixes |
+| 🔍 API Security Lab | OWASP API Top 10 attack scenarios |
+| 🧠 Threat Modeling | Secure design reviews using STRIDE |
+| 🏴 Bug Bounty Notes | Methodologies & PoCs from practice labs |
+
+👉 Check repositories for **detailed documentation & reports**
+
+---
+
+## 📊 Sample Security Workflow
+
+```text
+Code Commit
+   ↓
+SAST (Semgrep / SonarQube)
+   ↓
+Secrets Scan (TruffleHog)
+   ↓
+Build & Deploy (Staging)
+   ↓
+DAST (OWASP ZAP)
+   ↓
+Security Approval
+   ↓
+Production
