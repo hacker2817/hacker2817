@@ -1,4 +1,4 @@
-# 👨‍💻 Application Security Analyst | Penetration Tester
+#  Application Security Analyst | Penetration Tester
 
 Hi there! 👋  
 I’m an **Application Security Analyst** with hands-on experience in **VAPT, secure SDLC, and DevSecOps**, focused on identifying, exploiting, and mitigating security vulnerabilities across **web apps, APIs, mobile apps, and cloud environments**.
